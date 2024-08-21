@@ -13,7 +13,7 @@ Logarithm
 Percentage
 Installation
 
-Clone the repository:git clone https://github.com/Digambarchauhan /simple-calculator._python.git
+Clone the repository:git clone https://github.com/Digambarchauhan/simple-calculator._python.git
 
 Navigate to the project directory:cd Simple_calculator_python
 
